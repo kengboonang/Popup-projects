@@ -1,0 +1,43 @@
+Report No.,"LOCAL:
+Location","EQUIPAMENTO:
+Equipment","DATA DE FABRICAÇÃO: 
+Date of Manufacture","TAG DO EQUIPAMENTO:
+Equipment Tag","FABRICADOR:
+Manufacturer","MODELO:
+Model","SERIE NO:
+Serial number","INDICE NO:
+Index Number",TIPO DE MAQUINA / Machine Type:,ROTAÇÕES / Rotation:,CAPACIDADE / Capacity:,POTÊNCIA / Power:,PESO / Weight:,DIMENSÕES / Dimension:,Sistema / System:,OUTRAS / Other:,"RISCOS - No.1
+Risks","LOCALIZAÇÃO - No.1
+Location","TABELA 1
+Table 1","TABELA 2
+Table 2","NIVEL DO RISCO
+Risk Level","RECOMENDAÇÃO
+Recommendation","RISCOS - No.2
+Risks","LOCALIZAÇÃO - No.2
+Location","TABELA 1
+Table 1","TABELA 2
+Table 2","NIVEL DO RISCO
+Risk Level","RECOMENDAÇÃO
+Recommendation","RISCOS - No.3
+Risks","LOCALIZAÇÃO - No.3
+Location","TABELA 1
+Table 1","TABELA 2
+Table 2","NIVEL DO RISCO
+Risk Level","RECOMENDAÇÃO
+Recommendation","RISCOS - No.4
+Risks","LOCALIZAÇÃO - No.4
+Location","TABELA 1
+Table 1","TABELA 2
+Table 2","NIVEL DO RISCO
+Risk Level","RECOMENDAÇÃO
+Recommendation",Drawing No.:,"PENDÊNCIAS E OBSERVAÇÕES:
+Pendency and observations","DATA:
+Date"001 - Análise de Risco (Risk Analysis),L10C,Motor do ventilador da unidade condensadora (MOTOR CONDENSER UNIT FAN),NIL,77GK402-M01,ABB,M3KP100LB4,NIL,001,Elétrico / Electric,NIL,NIL,NIL,NIL,NIL,77,Equipamento não requer manuseio contínuo de operador (Equipment operation does not require continuos presence of operator),PRENDER E ENROSCAR / Cut and Pitch,EIXO / Shaft,1,3,"BAIXO RISCO
+Low Risk
+(3)",Ver recomendações próxima página. See recommendation next page. ,CHOQUE ELÉTRICO / Electrical Shock,CARCAÇA / Covers,1,3,"BAIXO RISCO
+Low Risk
+(3)",Nenhuma. Equipamento em conformidade com NR10. Equipment in compliance with NR10.,,,,,,,,,,,,,C140-AL-E-XE-2101-01,Tampa de proteção da parte móvel não pintada n cor laranja como requerimento da NR12. Recomenda-se pintura. / Cover for rotating part is not painted in orange colour as NR12 requirement. It is recommended the painting.,12-set-19002 - Análise de Risco (Risk Analysis),L60W,Motor para ventilação (FAN MOTOR- AHU UNIT - 77GA401A),NIL,77GK401A-M01,ABB,M3KP315SMB6,NIL,002,Elétrico / Electric,NIL,NIL,NIL,NIL,NIL,77,Equipamento não requer manuseio contínuo de operador (Equipment operation does not require continuos presence of operator),PRENDER E ENROSCAR / Cut and Pitch,EIXO / Shaft,1,3,"BAIXO RISCO
+Low Risk
+(3)",Ver recomendações próxima página. See recommendation next page. ,CHOQUE ELÉTRICO / Electrical Shock,CARCAÇA / Covers,1,3,"BAIXO RISCO
+Low Risk
+(3)",Nenhuma. Equipamento em conformidade com NR10. Equipment in compliance with NR10.,,,,,,,,,,,,,C140-AL-E-XE-2601-01,Tampa de proteção da parte móvel não pintada n cor laranja como requerimento da NR12. Recomenda-se pintura. / Cover for rotating part is not painted in orange colour as NR12 requirement. It is recommended the painting.,12-set-19
